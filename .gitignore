@@ -86,3 +86,12 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Keys
+keys.json
+
+.vs/
+run.bat
+reddit.json
+stats.json
+Einladung.txt

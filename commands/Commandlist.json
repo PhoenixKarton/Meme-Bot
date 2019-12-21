@@ -1,0 +1,38 @@
+
+{"commands":[
+            {
+                "name": "setprefix",
+                "path": "./commands/setprefix.js",
+                "description": "Set the prefix"
+            },
+            {
+                "name": "meme",
+                "path": "./commands/meme.js",
+                "description": "Gets you fresh trash memes"
+            },
+            {
+                "name": "help",
+                "path": "./commands/help.js",
+                "description": "Dials 911"
+            },
+            {
+                "name": "rname",
+                "path": "./commands/rname.js",
+                "description": "Gives you a random nickname"
+            },
+            {
+                "name": "addSite",
+                "path": "./commands/addSite.js",
+                "description": "Add Subreddit"
+            },
+            {
+                "name": "switchSite",
+                "path": "./commands/switchSite.js",
+                "description": "Switch Subreddit form your list!"
+            },
+            {
+                "name": "reload",
+                "path": "./commands/reload.js",
+                "description": "Reloads Subreddit!"
+            }
+        ]}
