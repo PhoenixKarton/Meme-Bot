@@ -4,16 +4,12 @@
   "description": "Sick memes",
   "main": "index.js",
   "dependencies": {
-    "discord": "^0.8.2",
-    "discord.js": "^11.4.2",
-    "ffmpeg-binaries": "^4.0.0",
-    "fs": "0.0.1-security",
-    "js": "^0.1.0",
-    "tinyreq": "^3.4.1"
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   },
   "author": "PhoenixKarton",
   "license": "ISC"
